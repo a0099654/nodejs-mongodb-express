@@ -1,0 +1,21 @@
+{
+  "name": "node-mongodb-express",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stella",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "ejs": "^2.5.6",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.24"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
